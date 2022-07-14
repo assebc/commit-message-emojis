@@ -2,22 +2,22 @@
 
 ## List of the most useful emojis to create some prettier commits
 
-➕ :heavy_plus_sign:
-🔧 :wrench: 
-🔒 :lock: 
-🐛 :bug:
-✨ :sparkles:
-🚧 :construction:
-🔨 :hammer:
-🚨 :rotating_light:
-📚 :books:
-✅ :white_check_mark:
-✔️ :heavy_check_mark:
-🔥 :fire:
-📝 :pencil:
-📈 :chart_with_upwards_trend:
-👌 :ok_hand:
-🏁 :checkered_flag:
+[➕ heavy_plus_sign]
+[🔧 wrench]
+[🔒 lock]
+[🐛 bug]
+[✨ sparkles]
+[🚧 construction]
+[🔨 hammer]
+[🚨 rotating_light]
+[📚 book]s
+[✅ white_check_mark]
+[✔️ heavy_check_mark]
+[🔥 fire]
+[📝 pencil]
+[📈 chart_with_upwards_trend]
+[👌 ok_hand]
+[🏁 checkered_flag]
 
 ## How to use
 
