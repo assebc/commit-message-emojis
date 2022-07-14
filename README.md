@@ -2,6 +2,7 @@
 
 ## List of the most useful emojis to create some prettier commits
 
+```
 ➕ :heavy_plus_sign:
 🔧 :wrench: 
 🔒 :lock: 
@@ -18,6 +19,7 @@
 📈 :chart_with_upwards_trend:
 👌 :ok_hand:
 🏁 :checkered_flag:
+```
 
 ## How to use
 
