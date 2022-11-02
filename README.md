@@ -19,6 +19,7 @@
 📈 :chart_with_upwards_trend:
 👌 :ok_hand:
 🏁 :checkered_flag:
+🧹 :broom:
 ```
 
 ## How to use
